@@ -1,12 +1,8 @@
 package com.company.HashChain;
 
-/**
- * Created by Dima on 08.03.2017.
- */
 public class Link {
 
     private int date;
-    //next element
     public Link next;
 
     public Link(int date) {

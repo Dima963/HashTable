@@ -2,7 +2,8 @@ package com.company.HashChain;
 
 public class SortedList {
 
-    private Link first; //Reference on the first element
+    //Reference on the first element
+    private Link first;
 
     public SortedList() {
         this.first = null;
